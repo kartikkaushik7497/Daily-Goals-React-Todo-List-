@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Frontend
+![image](https://github.com/kartikkaushik7497/Daily-Goals-React-Todo-List-/assets/116940711/16f3f835-4ccc-4adf-932a-fc814d80e24e)
+
 ## Available Scripts
 
 In the project directory, you can run:
